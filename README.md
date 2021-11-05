@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ConnorTews
+- 👀 I’m interested in full stack web development 
+- 🌱 I’m currently learning javascript, sass, scss and php.
+- 📫 How to reach me connortews@connort.com
