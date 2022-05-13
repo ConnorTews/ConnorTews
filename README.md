@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ConnorTews
-- 👀 I’m interested in full stack web development 
-- 🌱 I’m currently learning javascript, sass, scss and php.
+- 👀 I’m interested in full stack web development and game development
+- I just like to mess around with things and see what it does.
